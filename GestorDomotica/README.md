@@ -1,6 +1,6 @@
 # Gestor de Domótica para Hogares
 
-Aplicación de escritorio en **C++17 / Qt** con persistencia en **SQLite** y documentación **Doxygen**
+Aplicación de escritorio en **C++ / Qt** con persistencia en **SQLite** y documentación **Doxygen**
 (proyecto 3.5 de Algoritmos en Sistemas Electrónicos).
 
 ## Funcionalidades
