@@ -46,3 +46,9 @@ python3 tests/test_sql.py
 
 ## Datos
 La base `domotica.db` se crea en la carpeta de datos de la aplicación del usuario. Primera ejecución: la app pide crear la cuenta inicial.
+
+Nicolas Giovanny Lombana
+Santiago Ruda
+Nicolas Felipe Huerfano Medina
+
+un saludito <3
